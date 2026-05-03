@@ -1,0 +1,17 @@
+{
+  "Author": "NightmareXIV",
+  "Name": "Lifestream",
+  "InternalName": "Lifestream",
+  "AssemblyVersion": "2.5.4.4",
+  "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
+  "Punchline": "A plugin to speed up Aethernet travel and World changing.",
+  "AcceptsFeedback": false
+}
