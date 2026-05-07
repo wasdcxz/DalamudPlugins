@@ -16,9 +16,9 @@
             "Replacement"
         ],
         "DalamudApiLevel": 15,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/ChatTwoKR/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/ChatTwoKR/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/ChatTwoKR/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/ChatTwo/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/ChatTwo/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/ChatTwo/latest.zip",
         "DownloadCount": 0,
         "IsHide": false,
         "IsTestingExclusive": false,
