@@ -38,7 +38,7 @@
         "Punchline": "Change and save appearance of players.",
         "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
         "InternalName": "Glamourer",
-        "AssemblyVersion": "1.6.1.4",
+        "AssemblyVersion": "1.6.1.5",
         "RepoUrl": "https://github.com/Ottermandias/Glamourer",
         "ApplicableVersion": "any",
         "Tags": [
@@ -61,6 +61,6 @@
         "DownloadCount": 0,
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1777834195"
+        "LastUpdate": "1778202099"
     }
 ]
