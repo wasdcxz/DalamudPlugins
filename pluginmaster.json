@@ -1,5 +1,30 @@
 [
     {
+        "Author": "Kid Icarus",
+        "Name": "Character Select+ (KR)",
+        "Punchline": "Swap between your OCs with a single click",
+        "Description": "Instant Character Switching Made Simple\n\nCreate and save character profiles, then switch between them instantly. Applies Penumbra Collections, Glamourer Designs, Customize+ Profiles, Honorifics, Moodles, and Idles.Key Features: One-click character switching, multiple designs per character, advanced macro support, roleplay profiles, a character gallery, and immersive dialogue options. Perfect for roleplayers, gposers, and anyone who loves seamless character customization without manually switching between multiple plugins.\n",
+        "InternalName": "CharacterSelectPlugin",
+        "AssemblyVersion": "2.1.1.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "character",
+            "select",
+            "ocs",
+            "rp",
+            "roleplay"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "https://raw.githubusercontent.com/IcarusXIV/Character-Select-/master/CharacterSelectPlugin/Assets/Icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/CharacterSelectPlugin/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/CharacterSelectPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/wasdcxz/DalamudPlugins/main/plugins/CharacterSelectPlugin/latest.zip",
+        "DownloadCount": 0,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": "1778570648"
+    },
+    {
         "Author": "The Combat Reborn Team",
         "Name": "GatherBuddy Reborn (KR)",
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
