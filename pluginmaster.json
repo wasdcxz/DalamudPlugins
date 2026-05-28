@@ -30,7 +30,7 @@
         "Punchline": "Simplify Gathering and Fishing to the extreme.",
         "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
         "InternalName": "GatherBuddyReborn",
-        "AssemblyVersion": "7.5.0.11",
+        "AssemblyVersion": "7.5.0.13",
         "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
         "ApplicableVersion": "any",
         "Tags": [
@@ -55,7 +55,7 @@
         "DownloadCount": 0,
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": "1779100979"
+        "LastUpdate": "1779951624"
     },
     {
         "Author": "Ottermandias",
